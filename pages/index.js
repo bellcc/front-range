@@ -28,7 +28,7 @@ const Divider = () => {
 
 export default function Home() {
   return (
-    <div className={"mx-4 md:mx-32"}>
+    <div className={"mx-4 md:mx-16 lg:mx-32"}>
       <Head>
         <title>Home</title>
         <link rel="icon" href="/favicon.ico" />
@@ -43,7 +43,7 @@ export default function Home() {
 
       <Divider />
 
-      <div className={"grid grid-cols-1 md:grid-cols-3 gap-4"}>
+      <div className={"grid grid-cols-1 lg:grid-cols-3 gap-4"}>
         <Article
           title={"Conway's Game of Life"}
           description={
