@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -10,18 +10,12 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to Front Range
-        </h1>
+        <h1 className={styles.title}>Welcome to Front Range</h1>
 
-        <p className={styles.description}>
-          An engineering blog by Chris Bell
-        </p>
+        <p className={styles.description}>An engineering blog by Chris Bell</p>
       </main>
 
-      <footer className={styles.footer}>
-        Work in Progress
-      </footer>
+      <footer className={styles.footer}>Work in Progress</footer>
     </div>
-  )
+  );
 }
