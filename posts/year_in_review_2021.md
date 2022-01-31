@@ -9,4 +9,5 @@ Hello Cheese Sticks,
 I promise that I will have this article completed before Febuary 1st which was our original agreement. It's late on Sunday night and I want to go to sleep. See you tomorrow Gabe. 
 
 Sincerely,
+
 Chris
