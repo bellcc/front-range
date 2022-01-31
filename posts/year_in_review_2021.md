@@ -1,7 +1,7 @@
 ---
 title: "Year In Review 2021"
 date: "January 31st, 2021"
-description: "The year of 2021 has come and gone so I take a moment to reflect on all the things I've learned and what I still do not understand. After starting a new job at an online retailer I worked on an identity resolution projects, changed teams, and started making ornate homemade ice cream."
+description: "The year of 2021 has come and gone so I take a moment to reflect on all the things I've learned and what I still do not understand. After starting a new job at a Nordstrom I worked on an identity resolution project, changed teams, and started making homemade ice cream."
 ---
 
 ![The San Juan Mountains are beautiful!](../san-juan-mountains.jpg "San Juan Mountains")
