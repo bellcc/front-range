@@ -3,7 +3,7 @@ import Profile from "../../components/profile";
 
 export default function Post({ postData }) {
   return (
-    <div className="m-4 lg:mx-64 md:mx-32 sm:mx-16 divide-y divide-purple-400">
+    <div className="m-4 lg:mx-64 md:mx-32 sm:mx-16 divide-y-2 divide-purple-400">
       <Profile />
       <div className="p-2 flex flex-col items-center">
         <div>
