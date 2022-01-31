@@ -1,7 +1,7 @@
 ---
-title: 'Kicking Ass and Being Perpetually Unable to Remember Names'
-date: 'November 28th, 2021'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium ipsum nec elit blandit suscipit. Maecenas non leo sem. In hac habitasse platea dictumst. Etiam mollis placerat odio quis blandit. Fusce vitae vehicula leo, sit amet pulvinar leo. Ut in turpis porta, viverra arcu et, efficitur nisi. Cras quis sollicitudin elit.'
+title: "Kicking Ass and Being Perpetually Unable to Remember Names"
+date: "November 28th, 2021"
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium ipsum nec elit blandit suscipit. Maecenas non leo sem. In hac habitasse platea dictumst. Etiam mollis placerat odio quis blandit. Fusce vitae vehicula leo, sit amet pulvinar leo. Ut in turpis porta, viverra arcu et, efficitur nisi. Cras quis sollicitudin elit."
 ---
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.

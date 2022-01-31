@@ -1,7 +1,7 @@
 ---
-title: 'Espresso: Paradox of Caffeine Dependency'
-date: 'December 5th, 2021'
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium ipsum nec elit blandit suscipit. Maecenas non leo sem. In hac habitasse platea dictumst. Etiam mollis placerat odio quis blandit. Fusce vitae vehicula leo, sit amet pulvinar leo. Ut in turpis porta, viverra arcu et, efficitur nisi. Cras quis sollicitudin elit.'
+title: "Espresso: Paradox of Caffeine Dependency"
+date: "December 5th, 2021"
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium ipsum nec elit blandit suscipit. Maecenas non leo sem. In hac habitasse platea dictumst. Etiam mollis placerat odio quis blandit. Fusce vitae vehicula leo, sit amet pulvinar leo. Ut in turpis porta, viverra arcu et, efficitur nisi. Cras quis sollicitudin elit."
 ---
 
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
