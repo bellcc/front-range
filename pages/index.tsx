@@ -12,7 +12,7 @@ const Article = ({ id, title, date, description }) => {
       <h1 className="prose-xl font-black">{title}</h1>
       <h1>{description}</h1>
       <Link href={link_href}>
-        <h1 className="text-purple-600 font-semibold">Read full article</h1>
+        <h1 className="py-2 text-purple-600 font-semibold">Read full article</h1>
       </Link>
     </div>
   );
